@@ -575,6 +575,15 @@
   <data name="GeneralPage_RunAtStartUp.Description" xml:space="preserve">
     <value>PowerToys will launch automatically</value>
   </data>
+  <data name="GeneralPage_ResetSettings.Header" xml:space="preserve">
+    <value>Reset settings</value>
+  </data>
+  <data name="GeneralPage_ResetSettings.Description" xml:space="preserve">
+    <value>Restore settings to their orginal defaults</value>
+  </data>
+  <data name="GeneralPage_ResetSettings_Button.Content" xml:space="preserve">
+    <value>Reset settings</value>
+  </data>
   <data name="PowerRename.ModuleDescription" xml:space="preserve">
     <value>A Windows Shell extension for more advanced bulk renaming using search and replace or regular expressions.</value>
   </data>
